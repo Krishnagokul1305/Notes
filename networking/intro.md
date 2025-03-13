@@ -29,15 +29,15 @@ A network is a system of interconnected devices or nodes that communicate with e
 
 - The maximum amount of data that can be transferred in a given time.
 - Think of it like a highway:
-  - sub A wide highway (high bandwidth) allows more cars (data) to travel at once.
-  - sub A narrow highway (low bandwidth) allows fewer cars, causing congestion.
+  -  A wide highway (high bandwidth) allows more cars (data) to travel at once.
+  -  A narrow highway (low bandwidth) allows fewer cars, causing congestion.
 - Example: A 100 Mbps internet connection has higher bandwidth than a 10 Mbps connection.
 
 ### Throughput (Actual Speed)
 
 - The actual amount of data transferred in a given time.
 - Think of it like traffic flow:
-  - sub Even if the highway is wide (high bandwidth), if there’s a traffic jam (network issues), the actual cars moving (throughput) will be lower.
+  -  Even if the highway is wide (high bandwidth), if there’s a traffic jam (network issues), the actual cars moving (throughput) will be lower.
 - Example: You have 100 Mbps bandwidth, but due to network congestion, your actual speed (throughput) might be 50 Mbps.
 
 ## Type of data
