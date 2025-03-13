@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Intro](#Intro)
-- [Bandwidth and throughput](#Bandwidth and throughput)
-- [Common Methods of Data Transmission](#Common Methods of Data Transmission)
-- [Type of data](#Type of data)
+- [Intro](#intro)
+- [Bandwidth and Throughput](#bandwidth-and-throughput)
+- [Common Methods of Data Transmission](#common-methods-of-data-transmission)
+- [Type of Data](#type-of-data)
 
 ## Intro
 
