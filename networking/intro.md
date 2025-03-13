@@ -9,7 +9,10 @@
 #Intro
 A network is a system of interconnected devices or nodes that communicate with each other to share data, resources, and services
 
-##Examples of Networks: -[The Internet (a massive global network).] -[A home Wi-Fi network connecting phones, laptops, and smart devices.] -[A corporate network linking employees to shared files and servers.]
+##Examples of Networks: 
+- The Internet (a massive global network).
+- A home Wi-Fi network connecting phones, laptops, and smart devices.
+- A corporate network linking employees to shared files and servers.
 
 #Bandwidth&throughput
 
