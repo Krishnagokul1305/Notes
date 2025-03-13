@@ -4,6 +4,7 @@
 
 - [Client & Server](#Client-&-Server)
 - [Ways Computers Communicate in a Network](#Ways-Computers-Communicate-in-a-Network)
+- [Network Infrastructure](#Network-infrastructure)
 
 ## Client & Server
 
@@ -73,3 +74,17 @@ Computers in a network communicate in two main ways:
 | **Data Storage** | Stored on a server                   | Distributed among peers                 |
 | **Speed**        | Faster & reliable for large networks | Slower as more peers join               |
 | **Examples**     | Websites, Email, Online Games        | Torrents, Local Sharing, Blockchain     |
+
+---
+
+---
+
+## 🌐 Network Infrastructure
+
+| Category                 | Description                                             | Examples                                            |
+| ------------------------ | ------------------------------------------------------- | --------------------------------------------------- |
+| **End Devices**          | Devices that users interact with to access the network. | Computers, Smartphones, Printers, Smart TVs         |
+| **Intermediate Devices** | Devices that manage network traffic and connectivity.   | Routers, Switches, Modems, Access Points, Firewalls |
+| **Network Media**        | The medium used to transfer data between devices.       | Ethernet, Fiber Optic, Wi-Fi, Bluetooth, Cellular   |
+
+---
