@@ -13,6 +13,7 @@
 - **802.11 standards** (Wi-Fi) regulate wireless communication.
 - **Wi-Fi Alliance** ensures device compatibility.
 - Offers advantages like **mobility, flexibility, scalability, and cost savings**.
+  ![TCP/IP Model](https://techterms.com/img/lg/wlan_1283.png)
 
 ## 🏡 Home & Small Business Routers
 
